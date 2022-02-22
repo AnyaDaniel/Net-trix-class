@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+
+	myfullname=("George Abe Ayomide");
+	myphonenumber=("09080308705");
+	myemail=("abeayomide27@gmail.com");
+	mylanguage=("C language");
+	
+	printf("\n myintro= Hello world, My name is + 'myfullname' + with contact  + 'myphonenumber' + and  + 'myemail' + using +mylang+ as the language for my first journey as a + 'MyPath' ");
+	
+	return 0;
+	
+}
+
+	
+	
